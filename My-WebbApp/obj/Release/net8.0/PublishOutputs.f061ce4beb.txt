@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\omano\My-WebbApp\bin\Release\net8.0\publish\My-WebbApp.exe
+C:\Users\user\Desktop\omano\My-WebbApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\user\Desktop\omano\My-WebbApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\user\Desktop\omano\My-WebbApp\bin\Release\net8.0\publish\My-WebbApp.dll
+C:\Users\user\Desktop\omano\My-WebbApp\bin\Release\net8.0\publish\My-WebbApp.deps.json
+C:\Users\user\Desktop\omano\My-WebbApp\bin\Release\net8.0\publish\My-WebbApp.runtimeconfig.json
+C:\Users\user\Desktop\omano\My-WebbApp\bin\Release\net8.0\publish\My-WebbApp.pdb
